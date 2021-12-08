@@ -8,7 +8,7 @@ return require('packer').startup(function()
 
   use 'hrsh7th/cmp-nvim-lsp' 
 
-  use 'rmehri01/onenord.nvim'
+  use 'a2p1k02/dark-onenord'
 
   use 'windwp/nvim-autopairs'
 
