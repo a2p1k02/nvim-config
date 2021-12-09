@@ -2,7 +2,6 @@ require('plugins')
 
 require('nvim-autopairs').setup {}
 require'lspconfig'.clangd.setup {}
-require'lspconfig'.cmake.setup {}
 
 vim.o.number=true
 vim.o.swapfile=false 
