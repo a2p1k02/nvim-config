@@ -1,7 +1,8 @@
 require('plugins')
 
-require('nvim-autopairs').setup {}
-require'lspconfig'.clangd.setup {}
+require('nvim-autopairs').setup  {}
+require'lspconfig'.clangd.setup  {}
+require'lspconfig'.pyright.setup {}
 
 vim.o.number=true
 vim.o.swapfile=false 
