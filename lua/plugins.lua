@@ -8,6 +8,8 @@ return require('packer').startup(function()
 
   use 'hrsh7th/cmp-nvim-lsp' 
 
+  use 'kyazdani42/nvim-web-devicons'
+
   use 'a2p1k02/dark-onenord'
 
   use 'windwp/nvim-autopairs'

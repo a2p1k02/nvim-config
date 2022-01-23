@@ -74,6 +74,11 @@ _G.packer_plugins = {
     path = "/home/a2p1k02/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
+  ["dark-onenord"] = {
+    loaded = true,
+    path = "/home/a2p1k02/.local/share/nvim/site/pack/packer/start/dark-onenord",
+    url = "https://github.com/a2p1k02/dark-onenord"
+  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/a2p1k02/.local/share/nvim/site/pack/packer/start/lualine.nvim",
@@ -103,11 +108,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/a2p1k02/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
     url = "https://github.com/kyazdani42/nvim-web-devicons"
-  },
-  ["onenord.nvim"] = {
-    loaded = true,
-    path = "/home/a2p1k02/.local/share/nvim/site/pack/packer/start/onenord.nvim",
-    url = "https://github.com/rmehri01/onenord.nvim"
   },
   ["packer.nvim"] = {
     loaded = true,
