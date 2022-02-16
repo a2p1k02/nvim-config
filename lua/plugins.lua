@@ -10,7 +10,9 @@ return require('packer').startup(function()
 
   use 'kyazdani42/nvim-web-devicons'
 
-  use 'a2p1k02/dark-onenord'
+  use 'ful1e5/onedark.nvim'
+    
+  --use 'a2p1k02/dark-onenord'
 
   use 'windwp/nvim-autopairs'
 
